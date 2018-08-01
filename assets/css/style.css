@@ -231,6 +231,10 @@ Media Queries
 		text-align: center;
 	}
 
+	#main-content {
+		padding: 15px 25px;
+	}
+
 	#main-content img {
 		width: 100%;
 	}
